@@ -82,7 +82,7 @@ Special thanks to Harveenchadha for creating the pretrained vakyansh-wav2vec2-te
 
 
 ## Contributors  
-- **M. Avinash**  
-- **P.Vivek Reddy** 
+- **P. Sai Vivek Reddy**  
+- **M. Avinash** 
 - **V.Sathvik**
 - **G.RajKushal** 
